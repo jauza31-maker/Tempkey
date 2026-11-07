@@ -34,4 +34,11 @@
     "expiresAt": "2026-11-30",
     "allowOffline": false
   },
+  {
+    "id": "508d1b040bbef0f8",
+    "username": "fikitri",
+    "password": "fikitri",
+    "expiresAt": "2026-11-08",
+    "allowOffline": false
+  },
 ]
