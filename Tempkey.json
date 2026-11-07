@@ -3,14 +3,14 @@
     "id": "b1b723ee68f3185a",
     "username": "admin",
     "password": "admin",
-    "expiresAt": "2026-11-08",
+    "expiresAt": "2026-11-09",
     "allowOffline": true
   },
   {
     "id": "b1b723ee68f3185a",
     "username": "test1",
     "password": "test1",
-    "expiresAt": "2026-11-08",
+    "expiresAt": "2026-11-09",
     "allowOffline": false
   },
   {
