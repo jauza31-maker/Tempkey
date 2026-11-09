@@ -11,20 +11,20 @@
     "username": "test1",
     "password": "test1",
     "expiresAt": "2030-10-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "d2ba99d6b1e0d672",
     "username": "novydwih",
     "password": "novydwih",
     "expiresAt": "2030-11-25",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "b0dde6d68f3643a0",
     "username": "redmi9t",
     "password": "redmi9t",
-    "expiresAt": "2030-10-31",
+    "expiresAt": "2026-10-12",
     "allowOffline": true
   },
   {
@@ -32,28 +32,28 @@
     "username": "ariyusu",
     "password": "ariyusu",
     "expiresAt": "2026-11-30",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "508d1b040bbef0f8",
     "username": "fikitri",
     "password": "fikitri",
     "expiresAt": "2026-12-08",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "495ee104230e1bee",
     "username": "boykeluhut",
     "password": "boykeluhut",
     "expiresAt": "2026-12-08",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "366f8d8feb271552",
     "username": "rusdianto",
     "password": "rusdianto",
     "expiresAt": "2026-12-20",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "a63a2c77df911207",
@@ -67,6 +67,6 @@
     "username": "yehezkiel",
     "password": "yehezkiel",
     "expiresAt": "2026-11-10",
-    "allowOffline": false
+    "allowOffline": true
   },
 ]
