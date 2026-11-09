@@ -67,6 +67,6 @@
     "username": "yehezkiel",
     "password": "yehezkiel",
     "expiresAt": "2026-11-10",
-    "allowOffline": true
+    "allowOffline": false
   },
 ]
