@@ -25,7 +25,7 @@
     "username": "redmi9t",
     "password": "redmi9t",
     "expiresAt": "2030-10-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "4b53533ed76af820",
@@ -60,7 +60,7 @@
     "username": "raflisuryo",
     "password": "raflisuryo",
     "expiresAt": "2026-12-20",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "5eecfe9954862156",
