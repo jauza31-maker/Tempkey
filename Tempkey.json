@@ -69,4 +69,11 @@
     "expiresAt": "2026-12-20",
     "allowOffline": true
   },
+  }
+    "id": "79840bf7ff9d29d0",
+    "username": "morgan",
+    "password": "morgan",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
 ]
